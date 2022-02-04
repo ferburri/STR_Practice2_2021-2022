@@ -63,4 +63,4 @@ The second part is the same, but the arduino part need to read a file of 4000 sa
 
 ## Source Files
 
-I have provided some audio files to use in order to check the functionality of the system. 
+I have provided some audio files to use in order to check the functionality of the system. It is stored in the folder *Source_Files*. 
